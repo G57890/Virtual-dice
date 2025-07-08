@@ -4,6 +4,11 @@ body {
     flex-direction: column;
     color:rgb(223, 189, 146);
 }
+summary {
+    font-size: 28px;
+    color: rgb(248, 219, 181);
+    -webkit-text-stroke: black 0.3px;
+}
 h1 {
     -webkit-text-stroke: black 1px;
     font-size: 4em;
@@ -49,3 +54,12 @@ h2 {
     font-size: 5.5em;
     -webkit-text-stroke: black 0.6px;
 }
+h3 {
+    font-size: 25px;
+    -webkit-text-stroke: black 0.3px;
+    color: rgb(248, 219, 181);
+}
+a {
+    text-decoration-line: none;
+}
+
